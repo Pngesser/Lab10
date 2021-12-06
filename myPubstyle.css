@@ -1,0 +1,19 @@
+body{
+
+    background-position: center;
+  
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+    box-shadow:  -2em 0 #ffffff
+  }
+  
+  .white-bg {
+    background-color: #FFFFFF;
+    padding: 10px;
+  }
